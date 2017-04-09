@@ -8,7 +8,6 @@ public class ArrayListDemo {
     public static void main(String[] args) {
 
         ArrayList<String> toDoList = new ArrayList<String>();
-        System.out.println("GitHub");
         System.out.println("Enter items for the list, when prompted.");
 
         boolean done = false;
